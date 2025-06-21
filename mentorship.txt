@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Industry-Specific Learning Paths and Mentors</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 60%;
+            margin: 50px auto;
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        label {
+            font-size: 1.2rem;
+            color: #333;
+            margin-bottom: 10px;
+            display: block;
+        }
+
+        select, button {
+            padding: 10px;
+            width: 100%;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            font-size: 1rem;
+        }
+
+        button {
+            background-color: #28a745;
+            color: white;
+            cursor: pointer;
+            font-size: 1rem;
+        }
+
+        button:hover {
+            background-color: #218838;
+        }
+
+        .learning-path, .mentor-section {
+            display: none;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+            margin-top: 20px;
+        }
+
+        .learning-path h2, .mentor-section h2 {
+            color: #333;
+        }
+
+        .learning-path ul, .mentor-section ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .learning-path li, .mentor-section li {
+            margin: 10px 0;
+        }
+
+        .learning-path .step, .mentor-section .mentor {
+            font-weight: bold;
+            color: #28a745;
+        }
+
+        .mentor-section .mentor-info {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Explore Industry-Specific Learning Paths and Mentors</h1>
+        
+        <!-- Dropdown for field selection -->
+        <label for="fieldSelect">Select your Field of Interest:</label>
+        <select id="fieldSelect">
+            <option value="">--Choose a Field--</option>
+            <option value="Software Engineering">Software Engineering</option>
+            <option value="Marketing">Marketing</option>
+            <option value="Data Science">Data Science</option>
+            <option value="Mechanical Engineering">Mechanical Engineering</option>
+            <option value="Electrical Engineering">Electrical Engineering</option>
+            <option value="Cybersecurity">Cybersecurity</option>
+            <option value="Cloud Computing">Cloud Computing</option>
+            <option value="AI & Machine Learning">AI & Machine Learning</option>
+        </select>
+
+        <!-- Button to display the learning path -->
+        <button id="showLearningPathBtn">Get Learning Path</button>
+
+        <!-- Section to display learning path -->
+        <div id="learningPath" class="learning-path">
+            <!-- Dynamic content will be injected here -->
+        </div>
+
+        <!-- Section to display mentors -->
+        <div id="mentorSection" class="mentor-section">
+            <h2>Meet Your Mentors</h2>
+            <ul id="mentorsList">
+                <!-- Mentor details will be injected here -->
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        // Event listener for the button click to show learning path and mentors
+        document.getElementById('showLearningPathBtn').addEventListener('click', function() {
+            const field = document.getElementById('fieldSelect').value;
+            const learningPathContainer = document.getElementById('learningPath');
+            const mentorSection = document.getElementById('mentorSection');
+            const mentorsList = document.getElementById('mentorsList');
+
+            // Clear previous content
+            learningPathContainer.innerHTML = '';
+            mentorsList.innerHTML = '';
+
+            if (!field) {
+                alert("Please select a field to get the learning path and mentors.");
+                return;
+            }
+
+            // Define learning paths and mentors for each field
+            const data = {
+                "Software Engineering": {
+                    title: "Software Engineering Learning Path",
+                    steps: [
+                        "Step 1: Learn Programming Basics (e.g., Python, JavaScript)",
+                        "Step 2: Learn Data Structures and Algorithms",
+                        "Step 3: Master Web Development (HTML, CSS, JavaScript, React)",
+                        "Step 4: Learn Version Control (Git/GitHub)",
+                        "Step 5: Work on Projects (e.g., Build a Portfolio Website)",
+                        "Step 6: Get Certified (e.g., Google Developer Certification)",
+                        "Step 7: Apply for Internships or Junior Developer Roles"
+                    ],
+                    resources: [
+                        "Course: FreeCodeCamp (https://www.freecodecamp.org/)",
+                        "Course: Udemy - The Web Developer Bootcamp (https://www.udemy.com/course/the-web-developer-bootcamp/)",
+                        "Book: Clean Code by Robert C. Martin"
+                    ],
+                    mentors: [
+                        {
+                            name: "Mansi",
+                            contact: "mansi@gmail.com",
+                            careerGuidance: "Look for internships at tech companies and start with open-source contributions.",
+                            phone: "7842640103"
+                        },
+                        {
+                            name: "Lavanya",
+                            contact: "lavanya@gmail.com",
+                            careerGuidance: "Focus on mastering algorithms and data structures. Consider applying for junior developer positions.",
+                            phone: "7623109875"
+                        }
+                    ]
+                },
+                "Marketing": {
+                    title: "Marketing Learning Path",
+                    steps: [
+                        "Step 1: Learn the Basics of Marketing",
+                        "Step 2: Understand Digital Marketing Strategies",
+                        "Step 3: Master SEO (Search Engine Optimization)",
+                        "Step 4: Learn Social Media Marketing (Facebook, Instagram, LinkedIn)",
+                        "Step 5: Get Hands-on with Google Analytics",
+                        "Step 6: Work on Projects (e.g., Build a Digital Campaign)",
+                        "Step 7: Get Certified (e.g., HubSpot Content Marketing Certification)"
+                    ],
+                    resources: [
+                        "Course: Google Digital Garage (https://learndigital.withgoogle.com/digitalgarage)",
+                        "Course: Coursera - Digital Marketing Specialization (https://www.coursera.org/specializations/digital-marketing)",
+                        "Book: Influence: The Psychology of Persuasion by Robert B. Cialdini"
+                    ],
+                    mentors: [
+                        {
+                            name: "Neeraja",
+                            contact: "neeraja@gmail.com",
+                            careerGuidance: "Explore freelancing in digital marketing or consider a full-time marketing role in e-commerce.",
+                            phone: "9954267810"
+                        }
+                    ]
+                },
+                "Data Science": {
+                    title: "Data Science Learning Path",
+                    steps: [
+                        "Step 1: Learn Python for Data Science",
+                        "Step 2: Master Data Analysis and Visualization (Pandas, Matplotlib)",
+                        "Step 3: Learn Machine Learning Algorithms",
+                        "Step 4: Get Hands-on with Projects (e.g., Predict Stock Prices)",
+                        "Step 5: Learn Big Data Tools (e.g., Hadoop, Spark)",
+                        "Step 6: Work on Real-World Data Science Challenges",
+                        "Step 7: Get Certified (e.g., Coursera Data Science Certification)"
+                    ],
+                    resources: [
+                        "Course: Coursera - IBM Data Science Professional Certificate (https://www.coursera.org/professional-certificates/ibm-data-science)",
+                        "Course: DataCamp (https://www.datacamp.com/)",
+                        "Book: Data Science for Business by Foster Provost"
+                    ],
+                    mentors: [
+                        {
+                            name: "Meena",
+                            contact: "meena@gmail.com",
+                            careerGuidance: "Focus on mastering machine learning algorithms. Participate in Kaggle competitions to showcase your skills.",
+                            phone: "7842640103"
+                        }
+                    ]
+                },
+                "Mechanical Engineering": {
+                    title: "Mechanical Engineering Learning Path",
+                    steps: [
+                        "Step 1: Learn the Basics of Mechanics and Materials",
+                        "Step 2: Master CAD (Computer-Aided Design) Software (e.g., SolidWorks)",
+                        "Step 3: Study Thermodynamics and Fluid Mechanics",
+                        "Step 4: Work on Projects (e.g., Design a Mechanical System)",
+                        "Step 5: Learn Finite Element Analysis (FEA)",
+                        "Step 6: Get Certified (e.g., Autodesk Certified Professional)",
+                        "Step 7: Apply for Internships or Mechanical Engineering Roles"
+                    ],
+                    resources: [
+                        "Course: MIT OpenCourseWare - Introduction to Mechanical Engineering (https://ocw.mit.edu/courses/mechanical-engineering/)",
+                        "Course: Coursera - Mechanical Engineering Specialization (https://www.coursera.org/specializations/mechanical-engineering)",
+                        "Book: Mechanical Engineering Design by J.E. Shigley"
+                    ],
+                    mentors: [
+                        {
+                            name: "Amith",
+                            contact: "amith@gmail.com",
+                            careerGuidance: "Look into internships with design or manufacturing companies. Strengthen your CAD skills.",
+                            phone: "9866123716"
+                        }
+                    ]
+                },
+                "Electrical Engineering": {
+                    title: "Electrical Engineering Learning Path",
+                    steps: [
+                        "Step 1: Learn Basic Electrical Engineering Concepts (e.g., Circuits, Voltage, Current)",
+                        "Step 2: Study Control Systems and Signal Processing",
+                        "Step 3: Master Circuit Design and PCB Design",
+                        "Step 4: Work on Projects (e.g., Build a Power Supply System)",
+                        "Step 5: Get Hands-on with Microcontrollers (e.g., Arduino, Raspberry Pi)",
+                        "Step 6: Learn Power Electronics and Renewable Energy Systems",
+                        "Step 7: Apply for Internships or Electrical Engineering Roles"
+                    ],
+                    resources: [
+                        "Course: MIT OpenCourseWare - Electrical Engineering (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)",
+                        "Course: Coursera - Electrical Engineering Specialization (https://www.coursera.org/specializations/electrical-engineering)",
+                        "Book: The Art of Electronics by Paul Horowitz"
+                    ],
+                    mentors: [
+                        {
+                            name: "Lara",
+                            contact: "lara@gmail.com",
+                            careerGuidance: "Gain experience in PCB design and embedded systems for greater opportunities in hardware development.",
+                            phone: "9441362091"
+                        }
+                    ]
+                },
+                "Cybersecurity": {
+                    title: "Cybersecurity Learning Path",
+                    steps: [
+                        "Step 1: Learn Networking Basics (e.g., TCP/IP, DNS, HTTP)",
+                        "Step 2: Study Network Security and Firewalls",
+                        "Step 3: Understand Cryptography and Encryption",
+                        "Step 4: Learn Ethical Hacking and Penetration Testing",
+                        "Step 5: Work on Projects (e.g., Simulate Attacks on Networks)",
+                        "Step 6: Get Certified (e.g., CompTIA Security+)",
+                        "Step 7: Apply for Cybersecurity Internships or Roles"
+                    ],
+                    resources: [
+                        "Course: Cybrary (https://www.cybrary.it/)",
+                        "Course: Coursera - Introduction to Cyber Security (https://www.coursera.org/learn/intro-cyber-security)",
+                        "Book: The Web Application Hacker's Handbook"
+                    ],
+                    mentors: [
+                        {
+                            name: "Devansh",
+                            contact: "devansh@gmail.com",
+                            careerGuidance: "Focus on ethical hacking and network security certifications. Join cybersecurity communities for exposure.",
+                            phone: "+1 890 123 456"
+                        }
+                    ]
+                },
+                "Cloud Computing": {
+                    title: "Cloud Computing Learning Path",
+                    steps: [
+                        "Step 1: Learn the Basics of Cloud Services (AWS, Azure, Google Cloud)",
+                        "Step 2: Study Virtualization and Networking in the Cloud",
+                        "Step 3: Understand Cloud Storage and Databases",
+                        "Step 4: Get Hands-on with Cloud Infrastructure Setup",
+                        "Step 5: Learn DevOps and Continuous Integration in Cloud",
+                        "Step 6: Get Certified (e.g., AWS Certified Solutions Architect)",
+                        "Step 7: Apply for Cloud Engineer Roles or Internships"
+                    ],
+                    resources: [
+                        "Course: AWS Training and Certification (https://aws.amazon.com/training/)",
+                        "Course: Coursera - Cloud Computing Specialization (https://www.coursera.org/specializations/cloud-computing)",
+                        "Book: Cloud Computing: Concepts, Technology & Architecture"
+                    ],
+                    mentors: [
+                        {
+                            name: "Sophia",
+                            contact: "sophia@gmail.com",
+                            careerGuidance: "Explore cloud architecture roles and DevOps positions. Stay updated with the latest cloud technologies.",
+                            phone: "7842640103"
+                        }
+                    ]
+                },
+                "AI & Machine Learning": {
+                    title: "AI & Machine Learning Learning Path",
+                    steps: [
+                        "Step 1: Learn Python for Machine Learning",
+                        "Step 2: Understand the Fundamentals of AI and Machine Learning",
+                        "Step 3: Master Machine Learning Algorithms (e.g., Regression, Classification)",
+                        "Step 4: Study Deep Learning and Neural Networks",
+                        "Step 5: Work on Projects (e.g., Build an AI Model)",
+                        "Step 6: Get Certified (e.g., TensorFlow Certification)",
+                        "Step 7: Apply for AI Engineer or Data Scientist Roles"
+                    ],
+                    resources: [
+                        "Course: Coursera - Machine Learning by Andrew Ng (https://www.coursera.org/learn/machine-learning)",
+                        "Course: Fast.ai (https://www.fast.ai/)",
+                        "Book: Deep Learning by Ian Goodfellow"
+                    ],
+                    mentors: [
+                        {
+                            name: "Sushrith",
+                            contact: "lsushrith123@gmail.com",
+                            careerGuidance: "Focus on deep learning and participate in AI-related hackathons to build real-world projects.",
+                            phone: "9866123716"
+                        }
+                    ]
+                }
+            };
+
+            // Fetch the selected learning path and mentors
+            const learningPath = data[field];
+
+            // Inject the learning path into the container
+            const learningPathHtml = `
+                <h2>${learningPath.title}</h2>
+                <p>Follow this learning path to become an expert in ${field}.</p>
+                <h3>Learning Steps:</h3>
+                <ul>
+                    ${learningPath.steps.map(step => `<li class="step">${step}</li>`).join('')}
+                </ul>
+                <h3>Recommended Resources:</h3>
+                <ul>
+                    ${learningPath.resources.map(resource => `<li>${resource}</li>`).join('')}
+                </ul>
+            `;
+
+            learningPathContainer.innerHTML = learningPathHtml;
+            learningPathContainer.style.display = 'block';
+
+            // Inject mentors into the mentor section
+            const mentorsHtml = learningPath.mentors.map(mentor => {
+                return `
+                    <li class="mentor">
+                        <h4>${mentor.name}</h4>
+                        <p><strong>Email:</strong> <a href="mailto:${mentor.contact}">${mentor.contact}</a></p>
+                        <p><strong>Phone:</strong> ${mentor.phone}</p>
+                        <p><strong>Career Guidance:</strong> ${mentor.careerGuidance}</p>
+                    </li>
+                `;
+            }).join('');
+
+            mentorsList.innerHTML = mentorsHtml;
+            mentorSection.style.display = 'block';
+        });
+    </script>
+
+</body>
+</html>
+
+

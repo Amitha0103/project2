@@ -1,0 +1,1436 @@
+{
+  "2003": [
+    {"name": "John Doe", "company": "Accenture", "branch": "CSE"},
+    {"name": "Jane Smith", "company": "TCS", "branch": "ECE"}
+  ],
+  "2004": [
+    {"name": "Alice Brown", "company": "Infosys", "branch": "IT"},
+    {"name": "Bob Johnson", "company": "Wipro", "branch": "CSE"}
+  ],
+  "2021":
+[
+  {
+    "name": "Payyavula Radhika",
+    "company": "Bridge Group Solutions",
+    "branch": "1608-17-733-060"
+  },
+  {
+    "name": "Dara Ramachandra Rao",
+    "company": "Bridge Group Solutions",
+    "branch": "1608-17-735-118"
+  },
+  {
+    "name": "Gundu Nitish Kumar",
+    "company": "Bridge Group Solutions",
+    "branch": "1608-17-735-119"
+  },
+  {
+    "name": "G Sai Sampreeth",
+    "company": "Cognizant",
+    "branch": "1608-17-735-120"
+  },
+  {
+    "name": "Srinivasula Amulya",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-004"
+  },
+  {
+    "name": "Ch Srilekha",
+    "company": "Accenture",
+    "branch": "2451-17-732-013"
+  },
+  {
+    "name": "Vallabhdas Gayathri",
+    "company": "Cognizant",
+    "branch": "2451-17-732-019"
+  },
+  {
+    "name": "Niharika Muthyala",
+    "company": "Cognizant",
+    "branch": "2451-17-732-020"
+  },
+  {
+    "name": "Vadithya Karthik",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-029"
+  },
+  {
+    "name": "P Shirisha",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-033"
+  },
+  {
+    "name": "Matti Abhilash",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-037"
+  },
+  {
+    "name": "Shaik Ameer Pasha",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-039"
+  },
+  {
+    "name": "G Srinija",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-040"
+  },
+  {
+    "name": "G V S K Harini",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-043"
+  },
+  {
+    "name": "Gade Sharan Meghareddy",
+    "company": "Cognizant",
+    "branch": "2451-17-732-050"
+  },
+  {
+    "name": "G Ravi Teja",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-052"
+  },
+  {
+    "name": "Gandikota Shivakumar",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-058"
+  },
+  {
+    "name": "Devi Devarapally",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-064"
+  },
+  {
+    "name": "S Vineeth Kumar Reddy",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-065"
+  },
+  {
+    "name": "Nikhithasoma",
+    "company": "Accenture",
+    "branch": "2451-17-732-066"
+  },
+  {
+    "name": "Chamala Nandini Reddy",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-067"
+  },
+  {
+    "name": "Bolla Shravya",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-068"
+  },
+  {
+    "name": "Y Rakesh",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-076"
+  },
+  {
+    "name": "Divyani M",
+    "company": "Cognizant",
+    "branch": "2451-17-732-079"
+  },
+  {
+    "name": "Vorsa Rohith Yadav",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-085"
+  },
+  {
+    "name": "P Raghavi",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-091"
+  },
+  {
+    "name": "Racharla Pravalika",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-097"
+  },
+  {
+    "name": "Kencha Nikhil Kumar",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-101"
+  },
+  {
+    "name": "G Pruthvi Raj",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-102"
+  },
+  {
+    "name": "Mohammad Ibrahim Ahmed",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-103"
+  },
+  {
+    "name": "Ramala Siddhartha Prakash",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-106"
+  },
+  {
+    "name": "Pravallika Alluri",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-109"
+  },
+  {
+    "name": "Allampally Sai Vikas",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-116"
+  },
+  {
+    "name": "G Bhavani",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-310"
+  },
+  {
+    "name": "Shaik Mallika Jabeen",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-312"
+  },
+  {
+    "name": "Nenavath Shiva Shanker",
+    "company": "Feedback Infra Pvt Ltd",
+    "branch": "2451-17-732-313"
+  },
+  {
+    "name": "Harshitha Kongara",
+    "company": "TCS Digital",
+    "branch": "2451-17-732-324"
+  },
+  {
+    "name": "Sathwika Kannareddy",
+    "company": "CISCO",
+    "branch": "2451-17-733-002"
+  },
+  {
+    "name": "Anurag Sharma",
+    "company": "Investosure Pvt. Ltd",
+    "branch": "2451-17-733-003"
+  },
+  {
+    "name": "Rakesh Gurram",
+    "company": "Investosure Pvt. Ltd",
+    "branch": "2451-17-733-004"
+  },
+  {
+    "name": "Gollapudi Rahul Chand",
+    "company": "Investosure Pvt. Ltd",
+    "branch": "2451-17-733-005"
+  },
+  {
+    "name": "Puppireddy Rajeswar Reddy",
+    "company": "Cognizant",
+    "branch": "2451-17-733-006"
+  },
+  {
+    "name": "Ankith Sharma",
+    "company": "Accenture",
+    "branch": "2451-17-733-021"
+  },
+  {
+    "name": "Gunti Ram Sainath",
+    "company": "TCS Digital",
+    "branch": "2451-17-733-022"
+  },
+  {
+    "name": "Bhavanasarva",
+    "company": "Accenture",
+    "branch": "2451-17-733-023"
+  },
+  {
+    "name": "Vineetha Sai Ramyagandredu",
+    "company": "Accenture",
+    "branch": "2451-17-733-024"
+  },
+  {
+    "name": "Tharunichitiprolu",
+    "company": "Accenture",
+    "branch": "2451-17-733-025"
+  },
+  {
+    "name": "Mohd Ataur Rahman",
+    "company": "Cognizant",
+    "branch": "2451-17-733-026"
+  },
+  {
+    "name": "Sahithyanamani",
+    "company": "Accenture",
+    "branch": "2451-17-733-027"
+  },
+  {
+    "name": "Varikuppala Prem Teja",
+    "company": "Investosure Pvt. Ltd",
+    "branch": "2451-17-733-028"
+  },
+  {
+    "name": "Rithiktheddu",
+    "company": "Accenture",
+    "branch": "2451-17-733-029"
+  },
+  {
+    "name": "Sunkari Rohan Sai",
+    "company": "Einfratech Systems India Pvt Ltd",
+    "branch": "2451-17-733-030"
+  },
+  {
+    "name": "Patel Gayathri Raj",
+    "company": "RoundPay Voice Tech Ptd ltd",
+    "branch": "2451-17-733-032"
+  },
+  {
+    "name": "Katti Salomi",
+    "company": "Investosure Pvt. Ltd",
+    "branch": "2451-17-733-033"
+  },
+  {
+    "name": "K Anil Kumar",
+    "company": "Accenture",
+    "branch": "2451-17-733-034"
+  },
+  {
+    "name": "N Harsha Surabhi",
+    "company": "Investosure Pvt. Ltd",
+    "branch": "2451-17-733-035"
+  },
+  {
+    "name": "Akhil Z",
+    "company": "Mindtree",
+    "branch": "2451-17-733-036"
+  },
+  {
+    "name": "G Sudhakar",
+    "company": "Investosure Pvt. Ltd",
+    "branch": "2451-17-733-037"
+  },
+  {
+    "name": "Yerra Vinayyerra",
+    "company": "Accenture",
+    "branch": "2451-17-733-038"
+  },
+  {
+    "name": "V Sunitha",
+    "company": "Investosure Pvt. Ltd",
+    "branch": "2451-17-733-040"
+  },
+  {
+    "name": "Vadla Sai Kiran",
+    "company": "Cognizant",
+    "branch": "2451-17-733-041"
+  },
+  {
+    "name": "Sushanth Adire",
+    "company": "Cognizant",
+    "branch": "2451-17-733-042"
+  },
+  {
+    "name": "Shreyas Nandapurkar",
+    "company": "Cognizant",
+    "branch": "2451-17-733-043"
+  },
+  {
+    "name": "Mukthamynampaty",
+    "company": "Accenture",
+    "branch": "2451-17-733-044"
+  }
+],
+
+  "2022":
+[
+  {
+    "name": "Mohnish Kumar Rejinthala",
+    "company": "Accenture",
+    "branch": "2451-18-732-004"
+  },
+  {
+    "name": "Bheemanathi Saitarun",
+    "company": "Accenture",
+    "branch": "2451-18-732-023"
+  },
+  {
+    "name": "Naveena Surakanti",
+    "company": "Accenture",
+    "branch": "2451-18-733-003"
+  },
+  {
+    "name": "Akhila Chithanoori",
+    "company": "Accenture",
+    "branch": "2451-18-733-004"
+  },
+  {
+    "name": "Sai Shankar Vemuganti",
+    "company": "Accenture",
+    "branch": "2451-18-733-008"
+  },
+  {
+    "name": "Prasad Jinna",
+    "company": "Accenture",
+    "branch": "2451-18-733-016"
+  },
+  {
+    "name": "Nagavinay Chinthada",
+    "company": "Accenture",
+    "branch": "2451-18-733-017"
+  },
+  {
+    "name": "Sai Kiran",
+    "company": "Accenture",
+    "branch": "2451-18-733-023"
+  },
+  {
+    "name": "Chandana Dontraboina",
+    "company": "Accenture",
+    "branch": "2451-18-733-031"
+  },
+  {
+    "name": "Methuku Tejomai",
+    "company": "Accenture",
+    "branch": "2451-18-733-034"
+  },
+  {
+    "name": "Gowni Bhavani",
+    "company": "Accenture",
+    "branch": "2451-18-733-040"
+  },
+  {
+    "name": "Madhumitha Thanneeru",
+    "company": "Accenture",
+    "branch": "2451-18-733-048"
+  },
+  {
+    "name": "Sai Prasad Kandukuri",
+    "company": "Accenture",
+    "branch": "2451-18-733-049"
+  },
+  {
+    "name": "Srinija Patibanda",
+    "company": "Accenture",
+    "branch": "2451-18-733-057"
+  },
+  {
+    "name": "Nithin Thota",
+    "company": "Accenture",
+    "branch": "2451-18-733-058"
+  },
+  {
+    "name": "Vaishnavi Dontha",
+    "company": "Accenture",
+    "branch": "2451-18-733-071"
+  },
+  {
+    "name": "Amrutha Kollu",
+    "company": "Accenture",
+    "branch": "2451-18-733-072"
+  },
+  {
+    "name": "Nymisha Devidi",
+    "company": "Accenture",
+    "branch": "2451-18-733-074"
+  },
+  {
+    "name": "Chitra Lekha Sura",
+    "company": "Accenture",
+    "branch": "2451-18-733-081"
+  },
+  {
+    "name": "Rithvik Jawalkar",
+    "company": "Accenture",
+    "branch": "2451-18-733-083"
+  },
+  {
+    "name": "Mohd Abdul Muqeet Danish",
+    "company": "Accenture",
+    "branch": "2451-18-733-095"
+  },
+  {
+    "name": "Quhura Fathima",
+    "company": "Accenture",
+    "branch": "2451-18-733-100"
+  },
+  {
+    "name": "Reema Mahabooba",
+    "company": "Accenture",
+    "branch": "2451-18-733-107"
+  },
+  {
+    "name": "Vamshi Reddy Kasarla",
+    "company": "Accenture",
+    "branch": "2451-18-733-114"
+  },
+  {
+    "name": "Amulya Parvataneni",
+    "company": "Accenture",
+    "branch": "2451-18-733-115"
+  },
+  {
+    "name": "Aakanksha Neelakantla",
+    "company": "Accenture",
+    "branch": "2451-18-733-118"
+  },
+  {
+    "name": "Sai Goutham Goli",
+    "company": "Accenture",
+    "branch": "2451-18-733-122"
+  },
+  {
+    "name": "A Sai Sricharan",
+    "company": "Accenture",
+    "branch": "2451-18-733-126"
+  },
+  {
+    "name": "Addaganti Venkata Subbarao Shirish",
+    "company": "Accenture",
+    "branch": "2451-18-733-129"
+  },
+  {
+    "name": "Bachu Ruchitha",
+    "company": "Accenture",
+    "branch": "2451-18-733-130"
+  },
+  {
+    "name": "Pavan Sai Machavaram",
+    "company": "Accenture",
+    "branch": "2451-18-733-131"
+  },
+  {
+    "name": "Nishitha Kolanupaka",
+    "company": "Accenture",
+    "branch": "2451-18-733-133"
+  },
+  {
+    "name": "Amith Sai Appasu",
+    "company": "Accenture",
+    "branch": "2451-18-733-146"
+  },
+  {
+    "name": "Bogam Saileshwar",
+    "company": "Accenture",
+    "branch": "2451-18-733-149"
+  },
+  {
+    "name": "Chinthalapati Sai Tarun",
+    "company": "Accenture",
+    "branch": "2451-18-733-151"
+  },
+  {
+    "name": "Varkala Sanjeev",
+    "company": "Accenture",
+    "branch": "2451-18-733-152"
+  },
+  {
+    "name": "Kota Manideepa",
+    "company": "Accenture",
+    "branch": "2451-18-733-157"
+  },
+  {
+    "name": "Rajarajeshwari Varikuppala",
+    "company": "Accenture",
+    "branch": "2451-18-733-166"
+  },
+  {
+    "name": "Vislavath Bhargavi",
+    "company": "Accenture",
+    "branch": "2451-18-733-168"
+  },
+  {
+    "name": "Madhusudhan Byru",
+    "company": "Accenture",
+    "branch": "2451-18-734-037"
+  },
+  {
+    "name": "Nikhila Allu",
+    "company": "Accenture",
+    "branch": "2451-18-734-062"
+  },
+  {
+    "name": "Raghavender Prodduturi",
+    "company": "Accenture",
+    "branch": "2451-18-734-069"
+  },
+  {
+    "name": "Sai Sri Vooshammagari",
+    "company": "Accenture",
+    "branch": "2451-18-734-085"
+  },
+  {
+    "name": "Chittiboina Sateesh",
+    "company": "Accenture",
+    "branch": "2451-18-734-089"
+  },
+  {
+    "name": "Veshala Jeevitha",
+    "company": "Accenture",
+    "branch": "2451-18-734-091"
+  },
+  
+  {
+    "name": "sai sridhar tarra",
+    "company": "accenture",
+    "branch": "mech"
+  },
+  {
+    "name": "lakshmi aparna garlapati",
+    "company": "amadeus labs",
+    "branch": "cse"
+  },
+  {
+    "name": "deekshitha kasireddy",
+    "company": "amadeus labs",
+    "branch": "cse"
+  },
+  {
+    "name": "y varshitha",
+    "company": "amadeus labs",
+    "branch": "cse"
+  },
+  {
+    "name": "vikramaditya sai mahankali",
+    "company": "amadeus labs",
+    "branch": "cse"
+  },
+  {
+    "name": "nikhil kartik nandula",
+    "company": "amadeus labs",
+    "branch": "it"
+  },
+  {
+    "name": "khwaja abdul rafae",
+    "company": "amadeus labs",
+    "branch": "cse"
+  },
+  {
+    "name": "harshini govindarajula",
+    "company": "amadeus labs",
+    "branch": "cse"
+  },
+  {
+    "name": "shashi vardhan giddigam",
+    "company": "axiom",
+    "branch": "eee"
+  },
+  {
+    "name": "thanniru shiva prasad",
+    "company": "axiom",
+    "branch": "eee"
+  },
+  {
+    "name": "anurag reddy s",
+    "company": "axiom",
+    "branch": "auto"
+  },
+  {
+    "name": "k manoj",
+    "company": "axiom",
+    "branch": "auto"
+  },
+  {
+    "name": "bathula indu",
+    "company": "axiom",
+    "branch": "eee"
+  },
+  {
+    "name": "boppani divya",
+    "company": "axiom",
+    "branch": "eee"
+  },
+  {
+    "name": "jalla surendra",
+    "company": "axiom",
+    "branch": "eee"
+  },
+  {
+    "name": "karthik palle",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "vishwanath poosarla",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "bhanu krishna reddy chirumamilla",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "krishna sai kothapalli",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "chaitanya surya",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "rahul nalluri",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "mahesh chowdary yeruva",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "chaitanya jampani",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "shivendra raj kumar",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "siva sri rajaram kotha",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "aparna venkata",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "kajal sree",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "chandana mulakayala",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "poonam sharma",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "bhanu sri botla",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "sushma chintala",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "ankit kumar",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "madhu sudhan m",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "vishnu raja",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "siva sri v",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "manoj kumar k",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "amrutha arumilli",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "karthik gudlavalleti",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "harsha teja",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "shravan",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "naga sree raj",
+    "company": "epam systems",
+    "branch": "cse"
+  },
+  {
+    "name": "sundar gajula",
+    "company": "epam systems",
+    "branch": "cse"
+  }
+
+
+],
+
+  "2023":
+[
+  {"name": "Vishnu Priya Jaligama", "company": "Accenture", "branch": "CIVIL"},
+  {"name": "Himavarshini Kallala", "company": "Accenture", "branch": "CIVIL"},
+  {"name": "B Anjali Boyini Balraj", "company": "Accenture", "branch": "CIVIL"},
+  {"name": "Sohana Reddy Gopireddy", "company": "Accenture", "branch": "CIVIL"},
+  {"name": "Sruthi Reddy Ananthula", "company": "Accenture", "branch": "CSE"},
+  {"name": "Sai Veena Kadari", "company": "Accenture", "branch": "CSE"},
+  {"name": "Sravya Nandikonda", "company": "Accenture", "branch": "CSE"},
+  {"name": "Tharun Gade", "company": "Accenture", "branch": "CSE"},
+  {"name": "Gandu Sahithya", "company": "Accenture", "branch": "CSE"},
+  {"name": "Lahari Sudhini", "company": "Accenture", "branch": "CSE"},
+  {"name": "Snigdha Amireddy", "company": "Accenture", "branch": "CSE"},
+  {"name": "Rajasa Yaranagi", "company": "Accenture", "branch": "CSE"},
+  {"name": "Venkatesh Goud Anthagoudolla", "company": "Accenture", "branch": "CSE"},
+  {"name": "Venkata Rajyalakshmi Gudala", "company": "Accenture", "branch": "CSE"},
+  {"name": "Harshith Kasthuri", "company": "Accenture", "branch": "CSE"},
+  {"name": "Policepatel Pranitha Reddy", "company": "Accenture", "branch": "CSE"},
+  {"name": "Rajasree Aedama", "company": "Accenture", "branch": "CSE"},
+  {"name": "Akshaya Bhogadi", "company": "Accenture", "branch": "CSE"},
+  {"name": "Nisha Erravala", "company": "Accenture", "branch": "CSE"},
+  {"name": "Manasa Jammalamadaka", "company": "Accenture", "branch": "CSE"},
+  {"name": "Uday Kiran Balne", "company": "Accenture", "branch": "CSE"},
+  {"name": "Vinay Nallabothula", "company": "Accenture", "branch": "CSE"},
+  {"name": "Haritha Vani Thigulla", "company": "Accenture", "branch": "CSE"},
+  {"name": "Gandham Rajitha", "company": "Accenture", "branch": "CSE"},
+  {"name": "Lokesh Kumar Ragilla", "company": "Accenture", "branch": "CSE"},
+  {"name": "Rapolu Neha", "company": "Accenture", "branch": "CSE"},
+  {"name": "Varshitha Yanamala", "company": "Accenture", "branch": "CSE"},
+  {"name": "Panaganti Prathima", "company": "Accenture", "branch": "CSE"},
+  {"name": "Vonteddu Pavithra", "company": "Accenture", "branch": "CSE"},
+  {"name": "Nithya Santhoshini Sampathi", "company": "Accenture", "branch": "CSE"},
+  {"name": "Likhitha Poloju", "company": "Accenture", "branch": "CSE"},
+  {"name": "Karray Sree Laya", "company": "Accenture", "branch": "CSE"},
+  {"name": "Shreeja Konda", "company": "Accenture", "branch": "CSE"},
+  {"name": "Vivek Thirupathi", "company": "Accenture", "branch": "CSE"},
+  {"name": "Immadi Akshaya", "company": "Accenture", "branch": "CSE"},
+  {"name": "Vinay Kumar Reddy Patil", "company": "Accenture", "branch": "ECE"},
+  {"name": "Mekala Janakirama Rao", "company": "Accenture", "branch": "ECE"},
+  {"name": "Niharika Langati", "company": "Accenture", "branch": "ECE"},
+  {"name": "Manisha Reddy Kandakatla", "company": "Accenture", "branch": "ECE"},
+  {"name": "Sravani Chepuri", "company": "Accenture", "branch": "ECE"},
+  {"name": "Sindhu Kovilala", "company": "Accenture", "branch": "ECE"},
+  {"name": "Poojitha Reddy Bukka", "company": "Accenture", "branch": "ECE"},
+  {"name": "Partheev Gurram", "company": "Accenture", "branch": "ECE"},
+  {"name": "Adunuri Navyasri", "company": "Accenture", "branch": "ECE"},
+  {"name": "Gautham Purohit", "company": "Accenture", "branch": "ECE"},
+  {"name": "Ch Jayasimha Reddy", "company": "Accenture", "branch": "ECE"},
+  {"name": "Vishnu Vardhan Ganji", "company": "Accenture", "branch": "ECE"},
+  {"name": "Chaitanya Kumar Gudipati", "company": "Accenture", "branch": "ECE"},
+  {"name": "Pradyumna Vengali", "company": "Accenture", "branch": "ECE"},
+  {"name": "Pranay Kumar Kande", "company": "Accenture", "branch": "ECE"},
+  {"name": "Pasunuri Sai Sindhu", "company": "Accenture", "branch": "ECE"},
+  {"name": "Sravya Devaki", "company": "Accenture", "branch": "ECE"},
+  {"name": "Nemali Susmitha", "company": "Accenture", "branch": "ECE"},
+  {"name": "Kattepally Shravani Reddy", "company": "Accenture", "branch": "ECE"},
+  {"name": "Jathin Myakala Anil", "company": "Accenture", "branch": "EEE"},
+  {"name": "Navilpakam Govindan", "company": "Accenture", "branch": "EEE"},
+  {"name": "Chandrakanth Kambalapally", "company": "Accenture", "branch": "EEE"},
+  {"name": "Tarannum Ansari", "company": "Accenture", "branch": "EEE"},
+  {"name": "Sahaja Sri Aila", "company": "Accenture", "branch": "EEE"},
+  {"name": "Deepika Karnati", "company": "Accenture", "branch": "IT"},
+  {"name": "Narla Arpitha Reddy", "company": "Accenture", "branch": "IT"},
+  {"name": "Akshitha Gajawada", "company": "Accenture", "branch": "IT"},
+  {"name": "Harshitha Kalluri", "company": "Accenture", "branch": "IT"},
+  {"name": "Parthasarathi Ayeti", "company": "Accenture", "branch": "IT"},
+  {"name": "Neha Danthuri", "company": "Accenture", "branch": "IT"},
+  {"name": "Revanth Aryan Sripathi", "company": "Accenture", "branch": "IT"},
+  {"name": "Harika Na Chippa", "company": "Accenture", "branch": "IT"},
+  {"name": "Pooja Alugoju", "company": "Accenture", "branch": "IT"},
+  {"name": "Srujan Kasoju", "company": "Accenture", "branch": "IT"},
+  {"name": "Likhith Patala", "company": "Accenture", "branch": "IT"},
+  {"name": "Munigala Vineela", "company": "Accenture", "branch": "IT"},
+  {"name": "Akarsha Dondhe", "company": "Accenture", "branch": "IT"},
+  {"name": "Brahmani Myla", "company": "Accenture", "branch": "IT"},
+  {"name": "Karthik Reddy Boojala", "company": "Accenture", "branch": "IT"},
+  {"name": "Sindhu Dhanavath", "company": "Accenture", "branch": "CIVIL"},
+  {"name": "Jitta Sri Vidhya", "company": "Accenture", "branch": "CSE"},
+  {"name": "Tanmayi Mulukutla", "company": "Accenture", "branch": "CSE"},
+  {"name": "Dimple Sri Pally", "company": "Accenture", "branch": "CSE"},
+  {"name": "Shaik Akifa Iram", "company": "Accenture", "branch": "CSE"},
+  {"name": "Kavitha", "company": "Accenture", "branch": "CSE"}
+],
+
+  "2024":
+  [
+    {"name": "Sreeja Peddi", "company": "Accenture", "branch": "CSE"},
+    {"name": "Gandu Sreeja", "company": "Mind Tree", "branch": "CIVIL"},
+    {"name": "Banda Mounika Reddy", "company": "Mind Tree", "branch": "CIVIL"},
+    {"name": "Bandaru Sri Harsha", "company": "Mind Tree", "branch": "CSE"},
+    {"name": "Sriramya Paladi", "company": "Mind Tree", "branch": "CSE"},
+    {"name": "Sathvika Miriyala", "company": "Mind Tree", "branch": "CSE"},
+    {"name": "Thota Reddy", "company": "Mind Tree", "branch": "CSE"},
+    {"name": "Anajpuram Tuljesh Rahul", "company": "Mind Tree", "branch": "CSE"},
+    {"name": "Madivala Sagar", "company": "Mind Tree", "branch": "CSE"},
+    {"name": "Anil Kumar Amgoth", "company": "Mind Tree", "branch": "CSE"},
+    {"name": "Undemodugula Teja", "company": "Mind Tree", "branch": "CSE"},
+    {"name": "RAMPURI SHIVA SAI", "company": "Mind Tree", "branch": "CSE"},
+    {"name": "D Saquib", "company": "Mind Tree", "branch": "CSE"},
+    {"name": "Sai Gangavaram", "company": "Mind Tree", "branch": "CSE"},
+    {"name": "Samuel Seshadri", "company": "Mind Tree", "branch": "CSE"},
+    {"name": "Immadi Sai Pavan", "company": "Mind Tree", "branch": "CSE"},
+    {"name": "Krishna Konyala", "company": "Mind Tree", "branch": "CSE"},
+    {"name": "Amruth Patha", "company": "Mind Tree", "branch": "ECE"},
+    {"name": "Tirupathaiah Avuladoddi", "company": "Mind Tree", "branch": "ECE"},
+    {"name": "Pravalika Salekula", "company": "Mind Tree", "branch": "ECE"},
+    {"name": "Harshitha Mudumba", "company": "Mind Tree", "branch": "ECE"},
+    {"name": "Gaddam Kumar", "company": "Mind Tree", "branch": "ECE"},
+    {"name": "Puttam Deekshitha", "company": "Mind Tree", "branch": "ECE"},
+    {"name": "Pragna Jindam", "company": "Mind Tree", "branch": "ECE"},
+    {"name": "Masthan Shaik", "company": "Mind Tree", "branch": "ECE"},
+    {"name": "Pingali Bhardwaz", "company": "Mind Tree", "branch": "ECE"},
+    {"name": "Bodakunta Hrushi kesh", "company": "Mind Tree", "branch": "ECE"},
+    {"name": "Manisha Vaggu", "company": "Mind Tree", "branch": "ECE"},
+    {"name": "Chepuri Gayathri", "company": "Mind Tree", "branch": "EEE"},
+    {"name": "Anil Sailla", "company": "Mind Tree", "branch": "EEE"},
+    {"name": "Adithya Santhoju", "company": "Mind Tree", "branch": "EEE"},
+    {"name": "Pulipati Vinay", "company": "Mind Tree", "branch": "EEE"},
+    {"name": "Rohith Ramesh", "company": "Mind Tree", "branch": "EEE"},
+    {"name": "RACHARLA PRATHIKHA", "company": "Mind Tree", "branch": "EEE"},
+    {"name": "Rahul Kasoju", "company": "Mind Tree", "branch": "IT"},
+    {"name": "Devaraju Gurram", "company": "Mind Tree", "branch": "IT"},
+    {"name": "Alli Ashwini", "company": "Mind Tree", "branch": "IT"},
+    {"name": "Anjali Yemike", "company": "Mind Tree", "branch": "IT"},
+    {"name": "Mano Dobbali", "company": "Mind Tree", "branch": "IT"},
+    {"name": "Keerthika Jakkidi", "company": "Mind Tree", "branch": "IT"},
+    {"name": "Venkata Satya Naga Arun Kousik Dhulipala", "company": "Mind Tree", "branch": "IT"},
+    {"name": "Devasani Varshith", "company": "Mind Tree", "branch": "IT"},
+    {"name": "Kranthi Kumar Challa", "company": "Mind Tree", "branch": "IT"},
+    {"name": "M Jeevan Reddy", "company": "Mind Tree", "branch": "IT"},
+    {"name": "Vaishnavi Utturwar", "company": "Mind Tree", "branch": "IT"},
+    {"name": "Pranav Muthineni", "company": "Mind Tree", "branch": "IT"},
+    {"name": "Gujjula Shreya", "company": "Mind Tree", "branch": "IT"},
+    {"name": "Konne Ujwala", "company": "Mind Tree", "branch": "IT"},
+    {"name": "Srivigna Bandela", "company": "Mind Tree", "branch": "IT"},
+    {"name": "Ravi Yaswanth", "company": "Mind Tree", "branch": "IT"},
+    {"name": "Marri Rahul", "company": "Mind Tree", "branch": "IT"},
+    {"name": "Reddigari Surya Kiran Reddy", "company": "Mind Tree", "branch": "MECH"},
+    {"name": "Pingali Bhardwaz", "company": "Mind Tree", "branch": "MECH"},
+    {"name": "Adithya Santhoju", "company": "Mind Tree", "branch": "EEE"},
+    {"name": "Gaddam Srivardhan Reddy", "company": "Modak Analytics LLP", "branch": "IT"},
+    {"name": "Anumula Deepika", "company": "Next Education Transforming Education", "branch": "CSE"},
+    {"name": "Regula Sandeep Kumar", "company": "ORC Engineering", "branch": "AUTO"},
+    {"name": "U Gopi Sagar", "company": "ORC Engineering", "branch": "ECE"},
+    {"name": "Voorugonda Ajay Kumar", "company": "ORC Engineering", "branch": "ECE"},
+    {"name": "Kattula Sai Madhav", "company": "ORC Engineering", "branch": "ECE"},
+    {"name": "Avuladoddi Tirupathaiah", "company": "ORC Engineering", "branch": "ECE"},
+    {"name": "Golla Anand", "company": "ORC Engineering", "branch": "ECE"},
+    {"name": "Chata Nandu Kumar Yadav", "company": "ORC Engineering", "branch": "ECE"},
+    {"name": "Devarakonda Siddhardha", "company": "ORC Engineering", "branch": "ECE"},
+    {"name": "Praneeth Pawar", "company": "ORC Engineering", "branch": "ECE"},
+    {"name": "Sirigadde Sree Charan", "company": "ORC Engineering", "branch": "ECE"},
+    {"name": "Dasu Shashidhar", "company": "ORC Engineering", "branch": "ECE"},
+    {"name": "Chetrypally Sai Varun", "company": "ORC Engineering", "branch": "ECE"},
+    {"name": "Budidi Bala Sai Sudheer", "company": "ORC Engineering", "branch": "ECE"},
+    {"name": "Samavedam Sai Niteesh", "company": "ORC Engineering", "branch": "ECE"},
+    {"name": "K Sri Saketh", "company": "ORC Engineering", "branch": "ECE"},
+    {"name": "Shaik Faizulla", "company": "ORC Engineering", "branch": "ECE"},
+    {"name": "Nagalgidde Pavan", "company": "ORC Engineering", "branch": "ECE"},
+    {"name": "V.Akshay Kumar Goud", "company": "ORC Engineering", "branch": "ECE"},
+    {"name": "Anna Praveen", "company": "ORC Engineering", "branch": "EEE"},
+    {"name": "Bonagiri Santhosh", "company": "ORC Engineering", "branch": "EEE"},
+    {"name": "Boddapally Srikanth", "company": "ORC Engineering", "branch": "EEE"},
+    {"name": "Mitta Vinay Reddy", "company": "ORC Engineering", "branch": "EEE"},
+    {"name": "Jayanth Velmakanti Jayanth", "company": "ORC Engineering", "branch": "EEE"},
+    {"name": "Mandru Vishal", "company": "ORC Engineering", "branch": "EEE"},
+    {"name": "Md Sharfuddin Zuber", "company": "ORC Engineering", "branch": "EEE"},
+    {"name": "Zeyaul Mustafa", "company": "ORC Engineering", "branch": "EEE"},
+    {"name": "Karthik Pandey", "company": "ORC Engineering", "branch": "EEE"},
+    {"name": "Saini Polisetty", "company": "Accenture", "branch": "CSE"},
+    {"name": "Sumvit Biradar", "company": "Accenture", "branch": "CSE"},
+    {"name": "Anoushika Boddupalli", "company": "Accenture", "branch": "CSE"},
+    {"name": "Yashwanth Ponugoti", "company": "Accenture", "branch": "CSE"},
+    {"name": "Garaga Sri Vyshnavi", "company": "Accenture", "branch": "CSE"},
+    {"name": "Bhoomika Antham", "company": "Accenture", "branch": "CSE"},
+    {"name": "Sri Naga Snigdha Chitta", "company": "Accenture", "branch": "CSE"},
+    {"name": "Anjali Menam", "company": "Accenture", "branch": "CSE"},
+    {"name": "Supritha Rao Mamindlapelly", "company": "Accenture", "branch": "CSE"},
+    {"name": "Sai Eshwar Mikkilineni", "company": "Accenture", "branch": "CSE"},
+    {"name": "Sukeerthi Gurijala", "company": "Accenture", "branch": "CSE"},
+    {"name": "Sanjay Kumar Bondala", "company": "Accenture", "branch": "CSE"},
+    {"name": "Mamidi Vishnu Priya", "company": "Accenture", "branch": "CSE"},
+    {"name": "Tarunika Thakkala", "company": "Accenture", "branch": "CSE"},
+    {"name": "Mounika Boggulapally", "company": "Accenture", "branch": "ECE"},
+    {"name": "Naveen Kumar Juluri", "company": "Accenture", "branch": "ECE"},
+    {"name": "Deekshitha Yalamaddi", "company": "Accenture", "branch": "ECE"},
+    {"name": "Deekshitha Na Yalamaddi", "company": "Accenture", "branch": "ECE"},
+    {"name": "Patibandla Samanvi", "company": "Accenture", "branch": "ECE"},
+    {"name": "Keerthana Bommidi", "company": "Accenture", "branch": "IT"},
+    {"name": "Anusha Maheshwaram", "company": "Accenture", "branch": "IT"},
+    {"name": "Aayesha Badye Amatul", "company": "Accenture", "branch": "IT"},
+    {"name": "Arundhati Chittepu", "company": "Accenture", "branch": "IT"},
+    {"name": "Dandala Srividya", "company": "Accenture", "branch": "IT"},
+    {"name": "Akshitha Reddy Merugu", "company": "Accenture", "branch": "IT"},
+    {"name": "Mahesh Rachamalla", "company": "Accenture", "branch": "IT"},
+    {"name": "D.Vinay", "company": "ACE Ventures", "branch": "CIV"},
+    {"name": "L. Swathi", "company": "AgastyaAascaurinfra Developers", "branch": "CIV"},
+    {"name": "Kolluri Karthikeya", "company": "Amazon", "branch": "CSE"},
+    {"name": "Kondaparthi Pragathi", "company": "Amazon", "branch": "CSE"},
+    {"name": "G. Kavya", "company": "Arteras", "branch": "CIV"},
+    {"name": "Meghana Vummadisingh", "company": "BDL", "branch": "IT"},
+    {"name": "S Balakrishna", "company": "BEL", "branch": "CIV"},
+    {"name": "Katthula Anusha", "company": "BEL", "branch": "EEE"},
+    {"name": "Seelam Mrudula Naidu", "company": "BLU-Sapphire", "branch": "CSE"},
+    {"name": "Mohammed Rafae Ahmed", "company": "BLU-Sapphire", "branch": "CSE"},
+    {"name": "Beejani Kranthi kiran", "company": "Caribou Technologies", "branch": "ECE"},
+    {"name": "Swathi Pothineni", "company": "Caribou Technologies", "branch": "IT"},
+    {"name": "M Supritha Rao", "company": "Catalog", "branch": "CSE"},
+    {"name": "Sri Naga Snigdha Chitta", "company": "Cognida.ai", "branch": "CSE"},
+    {"name": "Sai Mahidhar Mamidela", "company": "Cognida.ai", "branch": "CSE"},
+    {"name": "Mamidi VishnuPriya", "company": "Cognida.ai", "branch": "CSE"},
+    {"name": "Jyoshna Cigarambotla", "company": "Cognida.ai", "branch": "IT"},
+    {"name": "B Deepika", "company": "ConnectforNGO", "branch": "CSE"},
+    {"name": "Pabbathi Reddy Sri Charan Reddy", "company": "CriticalRiver", "branch": "IT"},
+    {"name": "Prashanth Pasikanti", "company": "E2Open", "branch": "IT"},
+    {"name": "Tarun Jakkula", "company": "Edwisely", "branch": "CSE"},
+    {"name": "Palakurthy SOMASHEKARA BHARADWAJ", "company": "Edwisely", "branch": "CSE"},
+    {"name": "Tulijesh Rahul", "company": "Edwisely", "branch": "CSE"},
+    {"name": "Bugude Chandrudu", "company": "Edwisely", "branch": "CSE"},
+    {"name": "Nune NIKHIL TEJA", "company": "Edwisely", "branch": "CSE"},
+    {"name": "POOJA CHIDURUPPALA", "company": "Edwisely", "branch": "IT"},
+    {"name": "Undemodugula Nikhil Teja", "company": "ExcelR Solutions", "branch": "CSE"},
+    {"name": "Miriyala SREEJA", "company": "ExcelR Solutions", "branch": "ECE"},
+    {"name": "Bandela Srivigna", "company": "ExcelR Solutions", "branch": "IT"},
+    {"name": "G. Bharat Kumar", "company": "FORSLEY Interiors", "branch": "CIV"},
+    
+    {"name": "Sai Kiran", "company": "Gowra Fountainhead", "branch": "CIV"},
+    {"name": "SAHITHYA GULLAPELLY", "company": "Hindhusthan CocaCola", "branch": "MECH"},
+    {"name": "Amaravadi Sri Datta Karthikeya", "company": "Hyundai Motor india engineering pvt ltd", "branch": "EEE"},
+    {"name": "Swathi Pothineni", "company": "Infosys", "branch": "IT"},
+    {"name": "Talluri Praneeth", "company": "Infosys", "branch": "IT"},
+    {"name": "Gona Sai Charan", "company": "Inrhythm", "branch": "CSE"},
+    {"name": "Beeram Nithin Kumar Reddy", "company": "Inrhythm", "branch": "IT"},
+    {"name": "Gouri", "company": "KN Constructions", "branch": "CIV"},
+    {"name": "Gandu Sreeja", "company": "LTI MINDTREE", "branch": "CIV"},
+    {"name": "B Mounika Reddy", "company": "LTI MINDTREE", "branch": "CIV"},
+    {"name": "Chepuri Gayathri", "company": "LTIMind Tree", "branch": "EEE"},
+    {"name": "Anil Sailla", "company": "LTIMind Tree", "branch": "EEE"},
+    {"name": "Rohith Ramesh", "company": "LTIMind Tree", "branch": "EEE"},
+    {"name": "RACHARLA PRATHIKHA", "company": "LTIMind Tree", "branch": "EEE"},
+    {"name": "NEERAJ KUMAR CHANDA", "company": "Medha Servo", "branch": "ECE"},
+      
+    {"name": "AKAI LENIN RICHARD", "company": "Medha Servo", "branch": "EEE"},
+    {"name": "Shashank Bikkanuri", "company": "Medha Servo", "branch": "EEE"},
+    {"name": "J Uday Kumar", "company": "Medha Servo", "branch": "MECH"},
+    
+
+    {"name": "P.Arun Kumar", "company": "Meesagesuite solutions Private ltd", "branch": "CIV"}
+],
+
+  "2025": [
+    {"name": "Akshatha Kompally", "company": "Accenture", "branch": "CSE"},
+    {"name": "Yarramada Varun Kumar Reddy", "company": "Accenture", "branch": "CSE"},
+    {"name": "Jadhav Avinash", "company": "Accenture", "branch": "CSE"},
+    {"name": "Lakshmi Prasanna Somishetti", "company": "Accenture", "branch": "CSE"},
+    {"name": "G Niharika Gandeeti Maheshwar Goud", "company": "Accenture", "branch": "CSE"},
+    {"name": "Siri Jeripothula", "company": "Accenture", "branch": "CSE"},
+    {"name": "Kandukuri Akhil Kumar", "company": "Accenture", "branch": "CSE"},
+    {"name": "Lakshmi Manjusha Paralla", "company": "Accenture", "branch": "CSE"},
+    {"name": "Deepika Phoola", "company": "Accenture", "branch": "CSE"},
+    {"name": "Guvvala Keerthan Reddy", "company": "Accenture", "branch": "CSE"},
+    {"name": "Rama Srikari Dontaraju", "company": "Accenture", "branch": "CSE"},
+    {"name": "Pradyumna Chacham", "company": "Accenture", "branch": "CSE"},
+    {"name": "Pavithra Mangamuri", "company": "Accenture", "branch": "CSE"},
+    {"name": "Harika Santhoshini Kontham", "company": "Accenture", "branch": "CSE"},
+    {"name": "Satya Sree Donga", "company": "Accenture", "branch": "CSE"},
+    {"name": "Sravika Varala", "company": "Accenture", "branch": "CSE"},
+    {"name": "Veda Vamsitha Bogem", "company": "Accenture", "branch": "CSE"},
+    {"name": "Koushik Pyarasani", "company": "Accenture", "branch": "CSE"},
+    {"name": "Shruthika Kapilavai", "company": "Accenture", "branch": "CSE"},
+    {"name": "Venkat Sai Kancherla", "company": "Accenture", "branch": "CSE"},
+    {"name": "Madhur Vilas Kannamwar", "company": "Accenture", "branch": "CSE"},
+    {"name": "Manasvi Potla", "company": "Accenture", "branch": "CSE"},
+    {"name": "Vigneshwar Punna", "company": "Accenture", "branch": "CSE"},
+    {"name": "Varshha Karnati", "company": "Accenture", "branch": "CSE"},
+    {"name": "Naveen Guntupalli", "company": "Accenture", "branch": "CSE"},
+    {"name": "Aseem Meher Achampetkar", "company": "Accenture", "branch": "CSE"},
+    {"name": "Lenkalapally Nikhil Chary", "company": "Accenture", "branch": "ECE"},
+    {"name": "Sri Pooja Chandra Challa", "company": "Accenture", "branch": "ECE"},
+    {"name": "Amja Yeshwanthraj", "company": "Accenture", "branch": "ECE"},
+    {"name": "Srinidhi Kukkala", "company": "Accenture", "branch": "ECE"},
+    {"name": "R Rasagna Rayasam Murali Krishna", "company": "Accenture", "branch": "ECE"},
+    {"name": "Abhinav Kavuluru", "company": "Accenture", "branch": "IT"},
+    {"name": "Abhishek Reddy Singireddy", "company": "Accenture", "branch": "IT"},
+    {"name": "Yashwanth Kumar Chavva", "company": "Accenture", "branch": "IT"},
+    {"name": "Niharika Malkajigiri", "company": "Accenture", "branch": "IT"},
+    {"name": "Thatikonda Vineethya", "company": "Accenture", "branch": "IT"},
+    {"name": "Suraj Reddy Dommata", "company": "Accenture", "branch": "IT"},
+    {"name": "Silveeri Lokesh", "company": "Accenture", "branch": "IT"},
+    {"name": "Sasha Keesari", "company": "Accenture", "branch": "IT"},
+    {"name": "K Vaneesha Reddy", "company": "Accenture", "branch": "IT"},
+    {"name": "Bhupathi Reddy Budupu", "company": "Accenture", "branch": "IT"},
+    {"name": "Nithin Reddy Komatireddy", "company": "Accenture", "branch": "IT"},
+    {"name": "Reethika Chowdary Kakollu", "company": "Accenture", "branch": "IT"},
+    {"name": "Sathwika Amanaganti", "company": "Accenture", "branch": "IT"},
+    {"name": "Anusha Tanugula", "company": "Accenture", "branch": "IT"},
+    {"name": "Sarjana Sai Vishwas", "company": "Accenture", "branch": "IT"},
+    {"name": "Neelakantam Ravi Teja", "company": "Accenture", "branch": "IT"},
+    {"name": "Vyshnavi Kanne", "company": "Accenture", "branch": "IT"},
+    {"name": "Ganji Sri Harini", "company": "Accenture", "branch": "IT"},
+    {"name": "Sai Krishna Surya Prakash Kavalipurapu", "company": "Accenture", "branch": "IT"},
+    {"name": "Kishi Ephraim Erroni", "company": "Accenture", "branch": "IT"},
+    {"name": "Vadeghar Shravan", "company": "Catalog", "branch": "IT"},
+    {"name": "Chavee Gupta", "company": "Cognida.ai", "branch": "CSE"},
+    {"name": "B Varun Kumar", "company": "Cognida.ai", "branch": "CSE"},
+    {"name": "S. Sai Vishwas", "company": "Cognida.ai", "branch": "IT"},
+    {"name": "Punna Vigneshwar", "company": "DeltaX", "branch": "CSE"},
+    {"name": "Siri Jaripothula", "company": "E2Open", "branch": "CSE"},
+    {"name": "Vineethya Thatikonda", "company": "E2Open", "branch": "IT"},
+    {"name": "Sarjana Sai Vishwas", "company": "Infosys", "branch": "IT"},
+    {"name": "Bandi Siddharth", "company": "Mindtree", "branch": "CSE"},
+    {"name": "Kishore Kumar Gandu", "company": "Mindtree", "branch": "CSE"},
+    {"name": "G Niharika", "company": "Mindtree", "branch": "CSE"},
+    {"name": "Siri Jeripothula", "company": "Mindtree", "branch": "CSE"},
+    {"name": "Harini Cherkuri", "company": "Mindtree", "branch": "CSE"},
+    {"name": "Ankush Appalashetti", "company": "Mindtree", "branch": "CSE"},
+    {"name": "Mohd Fahad", "company": "Mindtree", "branch": "CSE"},
+    {"name": "Pradyumna Chacham", "company": "Mindtree", "branch": "CSE"},
+    {"name": "Lasya Ganji", "company": "Mindtree", "branch": "CSE"},
+    {"name": "Deekshith Sripadhi", "company": "Mindtree", "branch": "CSE"},
+    {"name": "Sama Manasa", "company": "Mindtree", "branch": "CSE"},
+    {"name": "Uppala Akshaya", "company": "Mindtree", "branch": "CSE"},
+    {"name": "Mannepu Keerthana", "company": "Mindtree", "branch": "CSE"},
+    {"name": "Kontham Reddy", "company": "Mindtree", "branch": "CSE"},
+    {"name": "Kotha Srinika", "company": "Mindtree", "branch": "CSE"},
+    {"name": "Vignesh Chary Pagadala", "company": "Mindtree", "branch": "CSE"},
+    {"name": "Rashmitha Sudhini", "company": "Mindtree", "branch": "CSE"},
+    {"name": "Silveru Sowmya", "company": "Mindtree", "branch": "CSE"},
+    {"name": "Rajeev Reddy", "company": "Mindtree", "branch": "CSE"},
+    {"name": "Chaitanya Reddy Kolla", "company": "Mindtree", "branch": "CSE"},
+    {"name": "Sai Kiran Kura", "company": "Mindtree", "branch": "CSE"},
+    {"name": "Sreekanth Ravi Reddy", "company": "Mindtree", "branch": "CSE"},
+{
+        "name": "Bhanukiran Kante",
+        "company": "Mindtree",
+        "branch": "IT"
+    },
+    {
+        "name": "Sai Viseswara Rao",
+        "company": "Moschip",
+        "branch": "ECE"
+    },
+    {
+        "name": "Akshaya Upppala",
+        "company": "Recruit CRM",
+        "branch": "CSE"
+    },
+    {
+        "name": "Nava Prasad",
+        "company": "Controlytics",
+        "branch": "ECE"
+    },
+    {
+        "name": "Pranaydeep",
+        "company": "Controlytics",
+        "branch": "ECE"
+    },
+    {
+        "name": "Gouni Sandeep",
+        "company": "Controlytics",
+        "branch": "ECE"
+    },
+    {
+        "name": "Bhupathi Reddy",
+        "company": "Modak Analytics",
+        "branch": "IT"
+    },
+    {
+        "name": "Roopa Chinthala",
+        "company": "Modak Analytics",
+        "branch": "IT"
+    },
+    {
+        "name": "Yoga Venkata Siva Teja Bathina",
+        "company": "Modak Analytics",
+        "branch": "CSE"
+    },
+    {
+        "name": "CHEPPALA LAKSHYA",
+        "company": "ZeroCode",
+        "branch": "CSE"
+    },
+    {
+        "name": "TANYASREE SILIVERU",
+        "company": "ZeroCode",
+        "branch": "IT"
+    },
+    {
+        "name": "Suchir Vengala",
+        "company": "ZF",
+        "branch": "AUTO"
+    },
+    {
+        "name": "Rekapalli Manikanta Swaroop",
+        "company": "ZF",
+        "branch": "AUTO"
+    },
+    {
+        "name": "A Tharun Kumar Reddy",
+        "company": "ZF",
+        "branch": "AUTO"
+    },
+    {
+        "name": "Mamilla Praneeth Kumar",
+        "company": "ZF",
+        "branch": "AUTO"
+    },
+    {
+        "name": "Bachu Sai Maanas",
+        "company": "ZF",
+        "branch": "AUTO"
+    },
+    {
+        "name": "Kagey Prakash",
+        "company": "ZF",
+        "branch": "AUTO"
+    },
+    {
+        "name": "Venkatesh Karri",
+        "company": "ZF",
+        "branch": "AUTO"
+    },
+    {
+        "name": "G Hemanth Satyanarayana Reddy",
+        "company": "ZF",
+        "branch": "AUTO"
+    },
+    {
+        "name": "Pendyala Deepak Sai",
+        "company": "ZF",
+        "branch": "AUTO"
+    },
+    {
+        "name": "M Sampath",
+        "company": "ZF",
+        "branch": "AUTO"
+    },
+    {
+        "name": "Reddi Jnandeep",
+        "company": "ZF",
+        "branch": "AUTO"
+    },
+    {
+        "name": "Vundyala Shivateja Reddy",
+        "company": "ZF",
+        "branch": "AUTO"
+    },
+    {
+        "name": "Jaswanth Reddy Kuntloor",
+        "company": "ZF",
+        "branch": "AUTO"
+    },
+    {
+        "name": "Nallavolu Arjun Reddy",
+        "company": "ZF",
+        "branch": "AUTO"
+    },
+    {
+        "name": "U Bhanu Prasad",
+        "company": "ZF",
+        "branch": "AUTO"
+    },
+    {
+        "name": "Nayani Indranag",
+        "company": "ZF",
+        "branch": "MECH"
+    },
+    {
+        "name": "Daida Sravan Kumar",
+        "company": "ZF",
+        "branch": "MECH"
+    },
+    {
+        "name": "Jesinth Preetham Raj Adirala",
+        "company": "ZF",
+        "branch": "MECH"
+    },
+    {
+        "name": "Kuram Tirumala Sampath Raghavan",
+        "company": "ZF",
+        "branch": "MECH"
+    },
+    {
+        "name": "Eedulakanti Nitish",
+        "company": "ZF",
+        "branch": "MECH"
+    },
+    {
+        "name": "Yamjala Nithin",
+        "company": "ZF",
+        "branch": "MECH"
+    },
+    {
+        "name": "Gurram Siddharth Reddy",
+        "company": "ZF",
+        "branch": "MECH"
+    },
+    {
+        "name": "Nayani Indranag",
+        "company": "Neolync",
+        "branch": "MECH"
+    },
+    {
+        "name": "Akshatha Kompally",
+        "company": "Cognizant",
+        "branch": "CSE"
+    },
+    {
+        "name": "G Niharika",
+        "company": "Cognizant",
+        "branch": "CSE"
+    },
+    {
+        "name": "Mohd Siyan Fahad",
+        "company": "Cognizant",
+        "branch": "CSE"
+    },
+    {
+        "name": "KONTHAM HARIKA SANTHOSHINI",
+        "company": "Cognizant",
+        "branch": "CSE"
+    },
+    {
+        "name": "Botta Varun Kumar",
+        "company": "Cognizant",
+        "branch": "CSE"
+    },
+    {
+        "name": "Jyothika Boda",
+        "company": "Cognizant",
+        "branch": "CSE"
+    },
+    {
+        "name": "MOHAMMAD HARUN RAZEED",
+        "company": "Cognizant",
+        "branch": "EEE"
+    },
+    {
+        "name": "Ritheesha Neeli",
+        "company": "Cognizant",
+        "branch": "ECE"
+    },
+    {
+        "name": "Chinthakuntla Nikitha",
+        "company": "Cognizant",
+        "branch": "ECE"
+    },
+    {
+        "name": "Venugopal Reddy Saddali",
+        "company": "Cognizant",
+        "branch": "ECE"
+    },
+    {
+        "name": "Tukkapuram Rohit Chary",
+        "company": "Cognizant",
+        "branch": "ECE"
+    },
+    {
+        "name": "Duggireddy Poojitha",
+        "company": "Cognizant",
+        "branch": "IT"
+    },
+    {
+        "name": "Abhishek Reddy Singireddy",
+        "company": "Cognizant",
+        "branch": "IT"
+    },
+    {
+        "name": "Kancharla Vaishnavi",
+        "company": "Cognizant",
+        "branch": "IT"
+    },
+    {
+        "name": "Reddyboina Bhargav",
+        "company": "Cognizant",
+        "branch": "IT"
+    },
+    {
+        "name": "Gudupally Saiteja",
+        "company": "Cognizant",
+        "branch": "IT"
+    },
+    {
+        "name": "Vaishnavi Bandaru",
+        "company": "Cognizant",
+        "branch": "IT"
+    },
+    {
+        "name": "Alimineti Rithvika Reddy",
+        "company": "Cognizant",
+        "branch": "IT"
+    },
+    {
+        "name": "Deeksha Veerla",
+        "company": "Cognizant",
+        "branch": "IT"
+    },
+    {
+        "name": "Manur Akshita Vasudev",
+        "company": "Cognizant",
+        "branch": "IT"
+    },
+    {
+        "name": "Sathwika Amanaganti",
+        "company": "Cognizant",
+        "branch": "IT"
+    },
+    {
+        "name": "Kunal Yadav Alladi",
+        "company": "Cognizant",
+        "branch": "IT"
+    },
+    {
+        "name": "Sarjana Sai Vishwas",
+        "company": "Cognizant",
+        "branch": "IT"
+    },
+    {
+        "name": "Pujith Javvaji",
+        "company": "Cognizant",
+        "branch": "IT"
+    },
+    {
+        "name": "Sriya Yadlapally",
+        "company": "Aarvee",
+        "branch": "CIVIL"
+    },
+    {
+        "name": "Sandeep Kambhampati",
+        "company": "KPMG",
+        "branch": "EEE"
+    },
+    {
+        "name": "AASHINI MANISHA",
+        "company": "Cognizant Gen c",
+        "branch": "CSE"
+    },
+    {
+        "name": "Mohammed Faiyaz",
+        "company": "Cognizant Gen c",
+        "branch": "IT"
+    },
+    {
+        "name": "Aaretti Narasimha",
+        "company": "Cognizant Gen c Nxt",
+        "branch": "IT"
+    },
+    {
+        "name": "Bikkamulla Saanvika",
+        "company": "Medha Servo",
+        "branch": "ECE"
+    },
+    {
+        "name": "K Mahalaxmi",
+        "company": "Medha Servo",
+        "branch": "ECE"
+    }
+  ]
+
+
+}
